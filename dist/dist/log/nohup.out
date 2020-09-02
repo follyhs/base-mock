@@ -1,0 +1,6 @@
+ts=E0507 11:13:27.000672	listen tcp 0.0.0.0:8868: bind: address already in use
+10.141.0.103
+2020/05/07 11:13:28 Connected to 10.141.4.128:2181
+2020/05/07 11:13:28 Authenticated: id=102749625589059757, timeout=4000
+2020/05/07 11:13:28 Re-submitting `0` credentials after reconnect
+exit

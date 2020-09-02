@@ -1,0 +1,33 @@
+ {
+    
+    "StoragerC" : "saas_record_config_detail",
+    "BasicC" : {
+                  "ZkServers": "10.141.4.128:2181",
+                  "IdcName":"test"
+              },
+    "MysqlC" : {
+                  "Host" : "10.66.191.34",
+                  "Port" : 3306,
+                  "User" : "root",
+                  "Password" : "shumeitest2018",
+                  "DbName" : "saas",
+                  "ConnTimeout" : 1000,
+                  "ReadTimeout" : 500,
+                  "WriteTimeout" : 500,
+                  "MaxOpenConn" : 2000,
+                  "MaxIdleConn" : 100
+              },
+    "MysqlHistoryC" : {
+                  "Host" : "10.66.191.34",
+                  "Port" : 3306,
+                  "User" : "root",
+                  "Password" : "shumeitest2018",
+                  "DbName" : "his",
+                  "ConnTimeout" : 1000,
+                  "ReadTimeout" : 500,
+                  "WriteTimeout" : 500,
+                  "MaxOpenConn" : 2000,
+                  "MaxIdleConn" : 100
+              }
+}
+
